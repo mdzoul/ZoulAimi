@@ -331,6 +331,11 @@ th {
   text-align: -webkit-match-parent;
 }
 
+table {
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+
 thead,
 tbody,
 tfoot,
